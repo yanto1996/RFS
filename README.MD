@@ -1,4 +1,4 @@
-Yan To Practicum II
+Remote File Share using C and TPS socket connections
 
 - To compile the program please use make on shell to compile all necessary header functions
 - To run the server please use ./server
